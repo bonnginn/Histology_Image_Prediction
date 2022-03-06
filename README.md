@@ -24,4 +24,6 @@ Histology_Image_prediction.py, Histology_Image_prediction_group.ipynb, Model_tes
 train, test, group_train, group_test<br>
 を公開しています。trainとtest中には腎臓の尿細管と血管の分類を、group_train, group_testでは白血球の分類を行うための画像ファイルが含まれます。<br>
 
-詳しい使い方は、guide.pdfを公開予定です。
+詳しい使い方は、manual.pdfを参照してください。<br><br>
+
+使い方の動画もそのうちにアップロードする予定です。
