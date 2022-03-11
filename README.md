@@ -36,4 +36,4 @@ train, test, group_train, group_test<br>
 
 #########連絡先#################<br>
 稲葉弘哲<br>
-E mail:hinaba{at}med.mie-u.ac.jp ({at}を@に変更してください）
+E mail: hinaba{at}med.mie-u.ac.jp ({at}を@に変更してください）
